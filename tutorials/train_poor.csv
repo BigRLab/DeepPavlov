@@ -1,0 +1,8 @@
+text,intent
+add this track to my music,AddToPlaylist
+I want to reserve a table,BookRestaurant
+What is the weather for tommorow?,GetWeather
+play my favorite,PlayMusic
+this book was great!,RateBook
+find me this piece of art,SearchCreativeWork
+what movie to watch next?,SearchScreeningEvent
